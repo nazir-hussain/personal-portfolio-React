@@ -116,6 +116,9 @@ const HeroStyles = styled.div`
     }
     .hero__info {
       margin-top: 3rem;
+      p {
+        color: var(--gray-1) !important;
+      }
     }
     .hero__social {
       left: 0px;
