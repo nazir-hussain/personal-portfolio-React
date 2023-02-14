@@ -1,9 +1,9 @@
 const testimonials = [
   {
     id: 1,
-    name: 'Shaif Arfan',
-    title: 'CEO',
-    org: 'WEB CIFAR',
+    name: 'Prahlad Kumar',
+    title: 'SD1 Developer',
+    org: 'EXL pvt ltd',
     desc:
       'Ayan is a person of commitment. He is really good at what he is doing. I really like his work. Especially the unique point of view of designing.',
   },
@@ -17,9 +17,9 @@ const testimonials = [
   },
   {
     id: 3,
-    name: 'Sayed',
-    title: 'Marketing Head',
-    org: 'Eleven Dawn',
+    name: 'Swami Sonam Singh',
+    title: 'Full-stack Developer',
+    org: 'Avizava',
     desc:
       'Really hard-working person. Deliver the work as promised. Planning to work more with this person.',
   },

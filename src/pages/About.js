@@ -81,15 +81,15 @@ export default function About() {
           <div className="top-section">
             <div className="left">
               <p className="about__subheading">
-                Hi, I am <span>Ayan Khan</span>
+                Hi, I am <span>Nazir Hussain</span>
               </p>
               <h2 className="about__heading">A freelance Web developer</h2>
               <div className="about__info">
                 <PText>
-                  I am from chittagong, Bangladesh. A place of beauty and
-                  nature. Since my childhood, i love art and design. I always
-                  try to design stuff with my unique point of view. I also love
-                  to create things that can be usefull to others.
+                  I am from Jaynagar West Champaran, Bihar, India. A place of
+                  beauty and nature. Since my childhood, i love art and design.
+                  I always try to design stuff with my unique point of view. I
+                  also love to create things that can be usefull to others.
                   <br /> <br />
                   I started coding since I was in high school. Coding is also an
                   art for me. I love it and now I have the opportunity to design
@@ -115,15 +115,15 @@ export default function About() {
 
               <AboutInfoItem
                 title="School"
-                items={['Nasirabad Govt. High School, Chattogram']}
+                items={['Khrist Raja Senior Secondary School, Bettiah']}
               />
               <AboutInfoItem
                 title="Collage"
-                items={['BAF Shaheen College Chattogram']}
+                items={['Ram Lakhan Singh Yadav College (RLSY), Bettiah']}
               />
               <AboutInfoItem
-                title="Varsity"
-                items={['University Of Chitiagong']}
+                title="Univarsity"
+                items={['Maharaja Ranjit Singh Punjab Technical University']}
               />
             </div>
             <div className="about__info__item">
@@ -146,15 +146,15 @@ export default function About() {
               <h1 className="about__info__heading">Experiences</h1>
 
               <AboutInfoItem
-                title="2010-2012"
-                items={['junior developer at web Cifar']}
+                title="2022-2022"
+                items={['junior developer at Boonoz Private Limited']}
               />
               <AboutInfoItem
-                title="2012-2016"
-                items={['Front end developer at web Cifar ']}
+                title="2022-2023"
+                items={['Bootcamp Training at Newton School']}
               />
               <AboutInfoItem
-                title="2016-"
+                title="2021-"
                 items={['Freelance web Developer']}
               />
             </div>
