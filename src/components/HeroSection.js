@@ -40,12 +40,7 @@ const HeroStyles = styled.div`
   }
   .hero__info {
     margin-top: -18rem;
-    p {
-      color: white !important;
-      font-weight: 800;
-    }
   }
-
   .hero__social,
   .hero__scrollDown {
     display: flex;
@@ -116,9 +111,6 @@ const HeroStyles = styled.div`
     }
     .hero__info {
       margin-top: 3rem;
-      p {
-        color: var(--gray-1) !important;
-      }
     }
     .hero__social {
       left: 0px;
@@ -162,14 +154,14 @@ export default function HeroSection() {
         <div className="container">
           <h1 className="hero__heading">
             <span>Hello, This is</span>
-            <span className="hero__name">Nazir Hussain</span>
+            <span className="hero__name">Ayan Khan</span>
           </h1>
           <div className="hero__img">
             <img src={HeroImg} alt="" />
           </div>
           <div className="hero__info">
             <PText>
-              I am working as a freelance web designer and developer for 1
+              I am working as a freelance web designer and developer for 4
               years. I love to design and make new web experiences for the
               people.
             </PText>
@@ -193,7 +185,7 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="https://twitter.com/Im_NazirHussain/"
+                    href="http://twitter.com/webcifar"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -202,7 +194,7 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="https://www.instagram.com/nazir__hassan/"
+                    href="http://isntagram.com/web_cifar"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -211,7 +203,7 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="https://www.linkedin.com/in/thenazirhussain/"
+                    href="http://webcifar.com"
                     target="_blank"
                     rel="noreferrer"
                   >

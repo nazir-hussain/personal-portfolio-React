@@ -57,11 +57,11 @@ export default function Footer() {
     <FooterStyle>
       <div className="container">
         <div className="footer__col1">
-          <h1 className="footer__col1__title">Nazir Hussain</h1>
+          <h1 className="footer__col1__title">Ayan Khan</h1>
           <PText>
-            A freelance web designer and developer from Jaynagar West Champaran,
-            Bihar, India. I always make websites that have unique designs and
-            also has a good performance rate.
+            A freelance web designer and developer from Chittagong, Bangladesh.
+            I always make websites that have unique designs and also has a good
+            performance rate.
           </PText>
         </div>
         <div className="footer__col2">
@@ -96,15 +96,15 @@ export default function Footer() {
             heading="Contact Info"
             links={[
               {
-                title: '+06254 2 33536',
+                title: '+88012312',
                 path: 'tel:+88012312',
               },
               {
-                title: 'nhussainkkhan1@gmail.com',
-                path: 'mailto:nhussainkkhan1@gmail.com',
+                title: 'webcifar@gmail.com',
+                path: 'mailto:webcifar@gmail.com',
               },
               {
-                title: 'West Champaran, Bihar, India',
+                title: 'GEC Circle, Chittagong, Bangladesh',
                 path: 'http://google.com/maps',
               },
             ]}
@@ -120,11 +120,11 @@ export default function Footer() {
               },
               {
                 title: 'Twitter',
-                path: 'https://twitter.com/Im_NazirHussain/',
+                path: 'http://twitter.com',
               },
               {
                 title: 'Instagram',
-                path: 'https://www.instagram.com/nazir__hassan/',
+                path: 'http://instagram.com',
               },
             ]}
           />
@@ -133,9 +133,9 @@ export default function Footer() {
       <div className="copyright">
         <div className="container">
           <PText>
-            © 2022 - Nazir Hussain | Designed By{' '}
-            <a target="_blank" rel="noreferrer" href="/">
-              Nazir
+            © 2021 - Ayan Khan | Designed By{' '}
+            <a target="_blank" rel="noreferrer" href="http://webcifar.com">
+              web cifar
             </a>{' '}
           </PText>
         </div>
