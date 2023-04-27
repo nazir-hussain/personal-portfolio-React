@@ -5,11 +5,12 @@ const testimonials = [
     title: 'SD1 Developer',
     org: 'EXL pvt ltd',
     desc:
-      'Ayan is a person of commitment. He is really good at what he is doing. I really like his work. Especially the unique point of view of designing.',
+      'Nazir is a person of commitment. He is really good at what he is doing. I really like his work. Especially the unique point of view of designing.',
   },
   {
     id: 2,
-    name: 'Fahim Elahe',
+//     name: 'Fahim Elahe',
+    name: 'Shaheer Azfar',
     title: 'Co-founder',
     org: 'Kreetive',
     desc:
