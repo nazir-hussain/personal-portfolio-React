@@ -9,7 +9,6 @@ const testimonials = [
   },
   {
     id: 2,
-//     name: 'Fahim Elahe',
     name: 'Shaheer Azfar',
     title: 'Co-founder',
     org: 'Kreetive',
